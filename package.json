@@ -1,0 +1,12 @@
+{
+  "name": "chartjs-sample",
+  "version": "1.0.0",
+  "description": "Chart.js Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oscar Pérez <mr.omiguelperez@gmail.com>",
+  "license": "ISC"
+}
