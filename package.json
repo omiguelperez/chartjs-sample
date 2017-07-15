@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Oscar Pérez <mr.omiguelperez@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "chart.js": "^2.6.0"
+  }
 }
